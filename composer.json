@@ -1,0 +1,21 @@
+{
+    "name": "seisvalt/yii2-vue3",
+    "description": "vue 3 for yii2 web application ",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "vue3", "yii2-vue3", "yii2", "vuejs", "vue.js"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Jose Vargas",
+            "email": "jl.vargass@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "seisvalt\\vue\\": ""
+        }
+    }
+}
