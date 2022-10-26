@@ -1,6 +1,6 @@
 <?php
 
-namespace seisvalt\vue3;
+namespace seisvalt\vue;
 
 use Yii;
 use yii\helpers\Json;
